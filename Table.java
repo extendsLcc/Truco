@@ -16,7 +16,7 @@ public class Table extends World
     public Table()
     {    
         
-        super(600, 400, 1); 
+        super(800, 600, 1); 
         
     }
 }
